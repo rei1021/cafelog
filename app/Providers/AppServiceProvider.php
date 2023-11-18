@@ -3,9 +3,12 @@
 namespace App\Providers;
 
 use Illuminate\Support\ServiceProvider;
+use Illuminate\Support\Facades\Validator;
+use App\Http\ReviewControllers;
 
 class AppServiceProvider extends ServiceProvider
 {
+    
     /**
      * Register any application services.
      *
@@ -23,6 +26,7 @@ class AppServiceProvider extends ServiceProvider
      */
     public function boot()
     {
-        //
+       \URL::forceScheme('https');
+       $this->app['request']->server->set('HTTPS','on');
     }
 }

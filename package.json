@@ -5,7 +5,7 @@
         "build": "vite build", 
         "heroku-postbuild": "npm run build"
     },
-    "devDependencies": {
+    "dependencies": {
         "@tailwindcss/forms": "^0.5.2",
         "alpinejs": "^3.4.2",
         "autoprefixer": "^10.4.16",

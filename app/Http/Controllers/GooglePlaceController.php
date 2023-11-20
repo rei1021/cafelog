@@ -24,7 +24,7 @@ class GooglePlaceController extends Controller
         curl_close($ch);
         
         $data = json_decode($response, true);
-        dd($data);
+        //dd($data);
         
         $api_key = env('GOOGLE_PLACES_API_KEY');
         $lat = $data['results'][0]['geometry']['location']['lat'];//緯度　//地名を入力されたときは＄dataから

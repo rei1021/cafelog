@@ -2,10 +2,8 @@
     "private": true,
     "scripts": {
         "dev": "vite",
-        "start": "npm run tailwind:css && react-scripts start",
         "build": "vite build", 
-        "heroku-postbuild": "npm run build"
-        "tailwind:css": "tailwind build src/css/tailwind.src.css -c tailwind.js -o src/css/tailwind.css",
+        "heroku-postbuild": "npm run build",
         
         
     },

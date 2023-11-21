@@ -17,7 +17,7 @@
             {{$shopData['shopName']}}
         </h2>
             
-        <form action="/reviews/" method="POST" enctype="multipart/form-data"> <!-- show.blade に飛ぶ -->
+        <form action="/reviews" method="POST" enctype="multipart/form-data"> <!-- show.blade に飛ぶ -->
             @csrf
             <div class="title">
                 <label for="title" class="block mb-2 text-sm font-medium text-gray-900 dark:text-white">

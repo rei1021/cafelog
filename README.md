@@ -1,6 +1,7 @@
 <p align="center">
 <!--<a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>-->
-(https://github.com/rei1021/cafelog/assets/141414071/3a5dd7be-25e3-4e8f-8f3e-b9ea4da6ffcf)
+<img width="1433" alt="logos" src="https://github.com/rei1021/cafelog/assets/141414071/3a5dd7be-25e3-4e8f-8f3e-b9ea4da6ffcf">
+
 </p>
 
 
@@ -18,7 +19,7 @@ cafelogはカフェ専門の検索アプリケーションです。そして最�
 ## 画像や機能について
 
 ### ログイン画面
-<img width="1433" alt="ログイン画面" src="https://github.com/rei1021/cafelog/assets/141414071/2c01f745-0e6d-45a3-8be1-4923fe436666">
+<img width="1433" alt="ログイン画面" src="https://github.com/rei1021/cafelog/assets/141414071/2c01f745-0e6d-45a3-8be1-4923fe436666">
 
 ### 検索画面
 <img width="1440" alt="検索画面" src="https://github.com/rei1021/cafelog/assets/141414071/4f49de90-56cb-4909-b5ce-993081c55694">

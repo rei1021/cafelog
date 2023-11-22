@@ -22,13 +22,13 @@ Route::get('/reviews/relay', function () {
 
 Route::middleware(['auth'])->group(function () {
     Route::get('/', [ReviewController::class, 'index'])->name('index');
-    Route::post('/reviews', [ReviewController::class, 'store'])->name('store');
+    Route::post('/reviews/store', [ReviewController::class, 'store'])->name('store');
     Route::post('/reviews/create', [ReviewController::class, 'create'])->name('create');
     Route::get('/reviews/relay', [ReviewController::class, 'relay'])->name('relay');
     Route::get('/reviews/{review}', [ReviewController::class, 'show'])->name('show');
     Route::post('/reviews/shopShow', [ReviewController::class, 'shopShow'])->name('shopShow');
     Route::post('/reviews/detailShow', [ReviewController::class, 'detailShow'])->name('detailShow');
-    Route::put('/reviews/{review}', [ReviewController::class, 'update'])->name('update');
+    //Route::put('/reviews/{review}', [ReviewController::class, 'update'])->name('update');
     Route::post('/reviews/like', [ReviewController::class, 'like'])->name('review.like');
     Route::delete('/reviews/relay', [ReviewController::class, 'delete'])->name('delete');
     Route::get('/reviews/{review}/edit', [ReviewController::class, 'edit'])->name('edit');

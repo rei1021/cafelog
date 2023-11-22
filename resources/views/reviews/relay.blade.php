@@ -100,7 +100,7 @@
                          @endif
                          @endauth
                                
-                           <form action="/reviews/{{ $review->id }}" id="form_{{ $review->id }}" method="post">
+                           <form action="/reviews/store/{{ $review->id }}" id="form_{{ $review->id }}" method="post">
                            @csrf
                            @method('DELETE')
                            <button type="button" onclick="deletePost({{ $review->id }})">削除</button> 

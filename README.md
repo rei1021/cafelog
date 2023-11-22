@@ -22,16 +22,17 @@ cafelogはカフェ専門の検索アプリケーションです。そして最�
 <img width="1433" alt="ログイン画面" src="https://github.com/rei1021/cafelog/assets/141414071/2c01f745-0e6d-45a3-8be1-4923fe436666">
 
 ### 検索画面
-<img width="1440" alt="検索画面" src="https://github.com/rei1021/cafelog/assets/141414071/4f49de90-56cb-4909-b5ce-993081c55694">
+<img width="1435" alt="検索画面" src="https://github.com/rei1021/cafelog/assets/141414071/67ec5271-00a8-4704-b526-179217d9209d">
 
 ### 実際の検索ページ
-<img width="1440" alt="実際の検索ページ" src="https://github.com/rei1021/cafelog/assets/141414071/470cb067-9bfa-4db6-891e-3ded46f92716">
-<img width="1440" alt="実際の検索ページ２" src="https://github.com/rei1021/cafelog/assets/141414071/cd9bbdc8-5b00-4bbe-9fdc-5e17805c087a">
+<img width="1428" alt="実際の検索ページ" src="https://github.com/rei1021/cafelog/assets/141414071/da7640c4-b678-41c1-acdc-ac7ea0a99104">
+<img width="1440" alt="実際の検索ページ２" src="https://github.com/rei1021/cafelog/assets/141414071/1ebf6864-a9cb-4b3f-ad10-4dcf6753ab45">
 
 ### 口コミ投稿ページ
-<img width="1440" alt="口コミ投稿ページ" src="https://github.com/rei1021/cafelog/assets/141414071/4ee21949-7a45-47aa-bbe5-41cb6cd332f0">
+<img width="1433" alt="口コミ投稿ページ" src="https://github.com/rei1021/cafelog/assets/141414071/d028887c-fe3c-4c5f-b1fc-b1a508082a75">
+
 ### 口コミ一覧ページ
-<img width="1440" alt="口コミ一覧ページ" src="https://github.com/rei1021/cafelog/assets/141414071/c15068e0-4604-4cc9-99c5-51ad6f6eeb78">
+<img width="1431" alt="口コミ一覧ページ" src="https://github.com/rei1021/cafelog/assets/141414071/1b3dffdb-e185-4e45-a756-f18f21ad1c0a">
 
 ## 使用技術
 

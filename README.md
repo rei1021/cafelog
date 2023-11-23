@@ -1,6 +1,6 @@
 <p align="center">
 <!--<a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>-->
-<img width="1433" alt="logos" src="https://github.com/rei1021/cafelog/assets/141414071/3a5dd7be-25e3-4e8f-8f3e-b9ea4da6ffcf">
+<img width="899" alt="スクリーンショット 2023-11-23 18 50 36" src="https://github.com/rei1021/cafelog/assets/141414071/aae805e1-d039-4fe1-92dd-c46ee5af50ea">
 
 </p>
 

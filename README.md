@@ -41,7 +41,6 @@ cafelogはカフェ専門の検索アプリケーションです。そして最�
 - MySQL
 - AWS
     - EC2
-    - 
 - HTML/CSS
 - Heroku
 - github
